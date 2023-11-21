@@ -5,63 +5,63 @@ import { motion, useInView, stagger } from "framer-motion";
 const tools = [
   {
     name: "HTML",
-    icon: "img/html.png"
+    icon: "html.png"
   },
   {
     name: "CSS",
-    icon: "img/css.png"
+    icon: "css.png"
   },
   {
     name: "JS",
-    icon: "img/js.png"
+    icon: "js.png"
   },
   {
     name: "PHP",
-    icon: "img/php.png"
+    icon: "php.png"
   },
   {
     name: "React",
-    icon: "img/react.png"
+    icon: "react.png"
   },
   {
     name: "Node",
-    icon: "img/node.png"
+    icon: "node.png"
   },
   {
     name: "TS",
-    icon: "img/typescript.png"
+    icon: "typescript.png"
   },
   {
     name: "Next",
-    icon: "img/next.png"
+    icon: "next.png"
   },
   {
     name: "Express",
-    icon: "img/express.png"
+    icon: "express.png"
   },
   {
     name: "Sass",
-    icon: "img/sass.png"
+    icon: "sass.png"
   },
   {
     name: "Less",
-    icon: "img/less.png"
+    icon: "less.png"
   },
   {
     name: "Figma",
-    icon: "img/figma.png"
+    icon: "figma.png"
   },
   {
     name: "Yii2",
-    icon: "img/yii2.png"
+    icon: "yii2.png"
   },
   {
     name: "WP",
-    icon: "img/wordpress.png"
+    icon: "wordpress.png"
   },
   {
     name: "Git",
-    icon: "img/git.png"
+    icon: "git.png"
   },
 ]
 

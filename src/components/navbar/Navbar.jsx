@@ -20,14 +20,14 @@ const Navbar = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="/img/telegram.png" alt="telegram" />
+            <img src="/telegram.png" alt="telegram" />
           </a>
           <a
             href="https://github.com/Alexandr1807"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src="/img/github.png" alt="github" />
+            <img src="/github.png" alt="github" />
           </a>
         </div>
       </div>
